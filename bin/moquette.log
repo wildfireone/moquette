@@ -1,0 +1,187 @@
+380452 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+380652 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+380652 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+380858 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+380858 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+381063 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+381063 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+381268 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+381268 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+381470 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+381471 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+381673 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+381673 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+381875 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+381876 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+382077 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+382077 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+382283 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+382283 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+382485 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+382485 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+382690 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+382691 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+382896 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+382896 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+383102 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+383102 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+383303 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+383303 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+383503 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+383503 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+383704 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+383704 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+383906 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+383906 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+384108 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+384108 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+384308 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+384308 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+384513 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+384513 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+384718 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+384718 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+384923 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+384923 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+385126 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+385126 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+385332 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+385332 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+385537 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+385537 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+385739 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+385739 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+385943 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+385944 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+386145 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+386146 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+386350 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+386350 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+386550 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+386550 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+386754 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+386754 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+386959 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+386959 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+387163 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+387163 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+387368 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+387368 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+387571 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+387571 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+387772 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+387772 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+387973 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+387973 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+388177 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+388177 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+388379 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+388379 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+388584 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+388584 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+388785 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+388785 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+388985 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+388985 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+389189 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+389189 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+389393 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+389393 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+389598 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+389598 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+389800 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+389800 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+390006 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+390006 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+390211 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+390211 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+390411 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+390411 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+390610 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+390610 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+390811 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+390811 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+391011 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+391011 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+391214 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+391214 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+391418 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+391418 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+391622 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+391622 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+391823 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+391824 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+392029 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+392029 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+392233 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+392233 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+392434 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+392434 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+392639 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+392639 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+392845 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+392845 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+393049 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+393049 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+393251 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+393251 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+393453 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+393453 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+393656 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+393656 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+393861 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+393861 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+394064 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+394064 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+394268 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+394268 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+394470 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+394470 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+394676 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+394676 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+394878 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+394878 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+395082 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+395082 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+395285 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+395286 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+395486 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+395486 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+395686 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+395686 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+395890 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+395890 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+396094 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+396094 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+396298 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+396298 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+396498 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+396498 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+396699 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+396699 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - send publish message to <crouton-client63> on topic </outbox/testDevice/temperature>
+396903 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+397107 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+397312 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+397517 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+397720 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+397925 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+398129 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+398335 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+398537 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+398741 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+398945 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+399149 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+399350 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+399556 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+399759 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+399960 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+400166 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+400367 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+400570 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+400772 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+400976 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+401180 [nioEventLoopGroup-3-2] INFO  ProtocolProcessor  - PUBLISH from clientID <mqttjs_55620e5b> on topic </outbox/testDevice/temperature> with QoS MOST_ONE
+401216 [Thread-1] INFO  Server  - Server stopping...
+401425 [Thread-1] INFO  NettyAcceptor  - Msg read: 14745, msg wrote: 27561
+401426 [Thread-1] INFO  NettyAcceptor  - Bytes read: 729210, bytes wrote: 974300
+401427 [Thread-1] INFO  Server  - Server stopped
